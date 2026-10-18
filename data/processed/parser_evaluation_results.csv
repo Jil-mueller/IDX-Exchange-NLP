@@ -1,0 +1,61 @@
+query,intent,recognized_filters,has_recognized_filters
+Show me condos in Irvine under 1.5 million,property_search,"{'price_max': 1500000, 'city': 'irvine', 'property_type': 'condo'}",True
+Find 3 bedroom homes in San Diego,property_search,"{'beds': 3, 'city': 'san diego'}",True
+Show me townhouses with at least 2 bathrooms,property_search,"{'baths_min': 2, 'property_type': 'townhouse'}",True
+Find single family homes under 900000,property_search,"{'price_max': 900000, 'property_type': 'single_family'}",True
+Show me homes with more than 2000 square feet,property_search,{'sqft_min': 2000},True
+Find properties with a pool,amenity_search,{'amenities': ['pool']},True
+Show me homes with a spa,amenity_search,{'amenities': ['spa']},True
+Find listings in gated communities,amenity_search,{'amenities': ['gated_community']},True
+Show me homes near a clubhouse,amenity_search,{'amenities': ['clubhouse']},True
+Find properties with tennis courts,amenity_search,{'amenities': ['tennis_court']},True
+Show me homes close to the beach,location_search,{'nearby_places': ['beach']},True
+Find properties near shopping and dining,location_search,{'nearby_places': ['shopping and dining']},True
+Show me homes near good schools,location_search,{'nearby_places': ['good schools']},True
+Find listings within walking distance of downtown,location_search,{'nearby_places': ['downtown']},True
+Show me homes with easy freeway access,location_search,{'nearby_places': ['freeway']},True
+Find homes with granite countertops,feature_search,{'features': ['granite countertops']},True
+Show me listings with stainless steel appliances,feature_search,{'features': ['stainless steel appliances']},True
+Find homes with walk-in closets,feature_search,{'features': ['walk-in closets']},True
+Show me properties with a home office,feature_search,{'features': ['home office']},True
+Find houses with an open floor plan,feature_search,{'features': ['open floor plan']},True
+Show me remodeled homes,condition_search,{'condition': ['remodeled']},True
+Find recently renovated properties,condition_search,{'condition': ['renovated']},True
+Show me move-in ready homes,condition_search,{'condition': ['move_in_ready']},True
+Find newly updated listings,condition_search,{'condition': ['newly_updated']},True
+Show me well maintained properties,condition_search,{'condition': ['well_maintained']},True
+Find homes with ocean views,view_search,{'view': ['ocean']},True
+Show me houses with mountain views,view_search,{'view': ['mountain']},True
+Find properties with city views,view_search,{'view': ['city']},True
+Show me homes with panoramic views,view_search,{'view': ['panoramic']},True
+Find listings overlooking a golf course,view_search,{'view': ['golf_course']},True
+Show me homes with low HOA fees,financial_search,{'features': ['low_hoa_fees']},True
+Find properties with no HOA,financial_search,{'no_hoa': True},True
+Show me investment properties,financial_search,{'investment_property': True},True
+Find listings with rental income,financial_search,{'rental_income': True},True
+Show me homes with a recent price reduction,financial_search,{'price_reduced': True},True
+Show me 2 bedroom condos near downtown,property_search,"{'beds': 2, 'property_type': 'condo', 'nearby_places': ['downtown']}",True
+Find homes under 800000 with at least 3 bedrooms,property_search,"{'beds_min': 3, 'price_max': 800000}",True
+Show me townhomes with 2 car garages,property_search,"{'property_type': 'townhouse', 'garage_spaces': 2}",True
+Find properties larger than 2500 square feet,property_search,{'sqft_min': 2500},True
+Show me single family homes with 4 bedrooms,property_search,"{'beds': 4, 'property_type': 'single_family'}",True
+Find homes with a community pool,amenity_search,{'amenities': ['pool']},True
+Show me properties with a fitness center,amenity_search,{'amenities': ['fitness_center']},True
+Find homes with a playground nearby,amenity_search,{'amenities': ['playground']},True
+Show me listings with a dog park,amenity_search,{'amenities': ['dog_park']},True
+Find homes in communities with walking trails,amenity_search,{'amenities': ['walking_trails']},True
+Show me properties close to restaurants,location_search,{'nearby_places': ['restaurants']},True
+Find homes near parks,location_search,{'nearby_places': ['parks']},True
+Show me houses near shopping centers,location_search,{'nearby_places': ['shopping centers']},True
+Find properties close to major freeways,location_search,{'nearby_places': ['freeway']},True
+Show me homes near the beach,location_search,{'nearby_places': ['beach']},True
+Find houses with hardwood floors,feature_search,{'features': ['hardwood floors']},True
+Show me homes with recessed lighting,feature_search,{'features': ['recessed lighting']},True
+Find properties with a laundry room,feature_search,{'features': ['laundry room']},True
+Show me houses with a family room,feature_search,{'features': ['family room']},True
+Find homes with a large kitchen island,feature_search,{'features': ['kitchen island']},True
+Show me recently upgraded homes,condition_search,{'condition': ['recently_upgraded']},True
+Find turnkey properties,condition_search,{'condition': ['turnkey']},True
+Show me homes with panoramic ocean views,view_search,"{'view': ['ocean', 'panoramic']}",True
+Find houses with mountain views,view_search,{'view': ['mountain']},True
+Show me properties with low monthly HOA fees,financial_search,{'features': ['low_hoa_fees']},True
