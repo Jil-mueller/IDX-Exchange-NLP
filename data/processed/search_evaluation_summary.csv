@@ -1,0 +1,3 @@
+method,queries_evaluated,mean_precision_at_5,mean_latency_ms,max_latency_ms
+BM25,50,0.904,3.6446120019536465,7.3090000078082085
+semantic,50,0.736,16.115711997263134,28.22480001486838
