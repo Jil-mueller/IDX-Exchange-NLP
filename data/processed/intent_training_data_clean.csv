@@ -1,0 +1,211 @@
+query_id,query,intent_label
+1,Show me homes in San Diego,browsing
+2,Find houses in Irvine,browsing
+3,Browse condos in downtown Austin,browsing
+4,Looking for apartments in Seattle,browsing
+5,Show properties in the Phoenix area,browsing
+6,Find homes with pools in Irvine,browsing
+7,Luxury homes in Beverly Hills,browsing
+8,Townhouses for sale in Denver,browsing
+9,Show me waterfront properties in Tampa,browsing
+10,Browse new construction homes in Raleigh,browsing
+11,Find single-family homes in Columbus,browsing
+12,Condos in Chicago near the lake,browsing
+13,Show homes in the suburbs of Atlanta,browsing
+14,Properties with large yards in Sacramento,browsing
+15,Find ranch-style homes in Dallas,browsing
+16,Browse homes with garages in Portland,browsing
+17,Show me lofts in Brooklyn,browsing
+18,Find cottages near Asheville,browsing
+19,Luxury condos in Miami,browsing
+20,Homes with finished basements in Minneapolis,browsing
+21,Show properties in the 98103 ZIP code,browsing
+22,Find homes in Ann Arbor,browsing
+23,Browse houses near downtown Nashville,browsing
+24,Show me homes with fireplaces,browsing
+25,Find properties with balconies in San Francisco,browsing
+26,Condos in Boston,browsing
+27,Show homes in northern Virginia,browsing
+28,Browse properties near Lake Tahoe,browsing
+29,Find houses with gardens in Madison,browsing
+30,Show me homes in Orange County,browsing
+31,Properties with hardwood floors in Charlotte,browsing
+32,Find duplexes in Kansas City,browsing
+33,Browse homes in the suburbs of Detroit,browsing
+34,Show me properties near the beach in Charleston,browsing
+35,Find homes with patios in Tucson,browsing
+36,Townhomes in Salt Lake City,browsing
+37,Browse historic homes in Philadelphia,browsing
+38,Show me properties in the 78704 area,browsing
+39,Find homes near public parks in Fort Worth,browsing
+40,Condos with parking in Jersey City,browsing
+41,Show houses in the suburbs of Houston,browsing
+42,Browse homes with open floor plans,browsing
+43,Find properties in northern Colorado,browsing
+44,Show me cabins near Flagstaff,browsing
+45,Browse homes in downtown Grand Rapids,browsing
+46,Find homes with swimming pools in Orlando,browsing
+47,Show me properties near the University of Michigan,browsing
+48,Find condos in the Denver metro area,browsing
+49,Browse homes with mountain views,browsing
+50,Show properties in coastal Maine,browsing
+51,Find houses in the 60614 ZIP code,browsing
+52,Show me homes with three bedrooms,browsing
+53,Browse properties with two-car garages,browsing
+54,Find homes in the suburbs of Las Vegas,browsing
+55,Show me condos in downtown San Jose,browsing
+56,Browse homes near the Mississippi River,browsing
+57,Find properties in the Raleigh-Durham area,browsing
+58,Show houses with spacious kitchens,browsing
+59,Browse homes in western Michigan,browsing
+60,Find properties near downtown Tampa,browsing
+61,Show me townhouses in Arlington,browsing
+62,Browse homes with swimming pools in Mesa,browsing
+63,Find condos in central Phoenix,browsing
+64,Show properties with fenced yards,browsing
+65,Browse homes in the suburbs of Pittsburgh,browsing
+66,Find houses near the coast in Oregon,browsing
+67,Show me properties in the 80206 ZIP code,browsing
+68,Browse homes with home offices,browsing
+69,Find apartments in downtown Cleveland,browsing
+70,Show me homes in the Finger Lakes region,browsing
+71,Which San Diego neighborhoods have the lowest property taxes?,researching
+72,Compare HOA fees for condos near UC Irvine,researching
+73,What should I know about buying a historic home in Philadelphia?,researching
+74,Are property taxes higher in Austin or Dallas?,researching
+75,Which areas around Denver have good public transportation?,researching
+76,How do flood zones affect home values in Tampa?,researching
+77,What are the pros and cons of buying a condo versus a townhouse?,researching
+78,Which neighborhoods in Seattle have the best walkability?,researching
+79,How much do HOA fees typically cost in Miami Beach?,researching
+80,Compare school districts in the suburbs of Columbus,researching
+81,What affects resale value in homes near the coast?,researching
+82,Are older homes in Detroit more expensive to maintain?,researching
+83,Which parts of Phoenix have the lowest utility costs?,researching
+84,What should buyers look for in a home's inspection report?,researching
+85,How does a special assessment work for a condo association?,researching
+86,Compare the cost of living in Irvine and Anaheim,researching
+87,Which neighborhoods near Boston have commuter rail access?,researching
+88,What are typical closing costs for a first-time buyer in Ohio?,researching
+89,How do property taxes vary across Orange County?,researching
+90,What are the differences between a co-op and a condo in New York?,researching
+91,Which areas near Raleigh are growing fastest?,researching
+92,How can I evaluate an HOA before buying a property?,researching
+93,What does a high days-on-market figure indicate?,researching
+94,Are homes near a golf course easier to resell?,researching
+95,Which neighborhoods in Chicago have lower condo association fees?,researching
+96,What should I research before buying a waterfront home?,researching
+97,How do insurance costs differ for coastal and inland homes?,researching
+98,Compare housing prices in Ann Arbor and East Lansing,researching
+99,What are the advantages of a fixed-rate mortgage?,researching
+100,How does buying a new construction home differ from buying resale?,researching
+101,Which suburbs around Atlanta have access to major employers?,researching
+102,What does it mean when a property has a tax abatement?,researching
+103,How do I estimate the ongoing costs of owning a pool?,researching
+104,Are townhomes usually subject to HOA rules?,researching
+105,What should I know about buying a home in a floodplain?,researching
+106,Which areas of Sacramento have the shortest commutes?,researching
+107,How do school ratings relate to neighborhood home prices?,researching
+108,What is the difference between assessed value and market value?,researching
+109,Compare condo ownership costs in Boston and Providence,researching
+110,Which neighborhoods in Nashville are most walkable?,researching
+111,What are common restrictions in gated communities?,researching
+112,How does a home's age affect homeowners insurance?,researching
+113,What should I consider when buying a property with solar panels?,researching
+114,Which areas near Portland have lower property taxes?,researching
+115,How do local zoning rules affect adding an accessory dwelling unit?,researching
+116,What are the benefits and drawbacks of an adjustable-rate mortgage?,researching
+117,How can I compare the energy efficiency of two homes?,researching
+118,Which neighborhoods in San Jose have access to public transit?,researching
+119,What does contingent status mean in a real estate listing?,researching
+120,How do HOA reserves affect the financial health of a condo building?,researching
+121,What should I know about buying a home with a septic system?,researching
+122,Compare the rental markets in Tampa and Orlando,researching
+123,Which parts of Minneapolis have older housing stock?,researching
+124,How does proximity to an airport affect property values?,researching
+125,What questions should I ask about a condo association's finances?,researching
+126,How are property taxes calculated in Michigan?,researching
+127,Which neighborhoods in Charlotte have the most new development?,researching
+128,What are the risks of buying a property at auction?,researching
+129,How do easements affect what I can do with a property?,researching
+130,Compare the long-term costs of a townhouse and detached home,researching
+131,What should I research before purchasing a historic property?,researching
+132,Which areas around San Diego are most exposed to wildfire risk?,researching
+133,How does a home's flood history affect insurance eligibility?,researching
+134,What are typical maintenance costs for a large older house?,researching
+135,How do school district boundaries affect home searches?,researching
+136,Which neighborhoods near downtown Denver have lower HOA fees?,researching
+137,What is the difference between pre-qualification and pre-approval?,researching
+138,How do property tax exemptions work for homeowners?,researching
+139,What should I know about buying a home in a 55-plus community?,researching
+140,Compare commute options in suburbs north and south of Austin,researching
+141,Schedule a showing for the move-in ready home at 18 Oak Street,high_intent_inquiry
+142,"Find homes under $850,000 in Irvine with open houses this Sunday",high_intent_inquiry
+143,I'm ready to tour three-bedroom homes in San Diego this weekend,high_intent_inquiry
+144,Show active listings in Austin under $600k that allow a quick closing,high_intent_inquiry
+145,"Find move-in ready homes in Raleigh under $450,000 available now",high_intent_inquiry
+146,Can I book a viewing for a two-bedroom condo in downtown Denver?,high_intent_inquiry
+147,Show new listings in Tampa under $700k with seller financing,high_intent_inquiry
+148,Find homes available for immediate occupancy near Ann Arbor under $500k,high_intent_inquiry
+149,"Arrange a tour of homes in Phoenix with a pool priced below $550,000",high_intent_inquiry
+150,Show properties with open houses tomorrow in Columbus under $400k,high_intent_inquiry
+151,Find active listings in Seattle under $900k with at least two bathrooms,high_intent_inquiry
+152,I'm looking to make an offer on a condo near UC Irvine under $750k,high_intent_inquiry
+153,"Show homes listed this week in Charlotte under $500,000",high_intent_inquiry
+154,Find move-in ready houses in Orlando with a fenced yard under $425k,high_intent_inquiry
+155,Can I see available townhomes in Jersey City this Saturday?,high_intent_inquiry
+156,Find homes with seller financing in San Diego under $1.1 million,high_intent_inquiry
+157,Show properties accepting FHA offers in Detroit under $250k,high_intent_inquiry
+158,"Find VA-loan eligible homes in Colorado Springs under $450,000",high_intent_inquiry
+159,Show new listings with open houses this weekend in Nashville,high_intent_inquiry
+160,Find active waterfront homes in Tampa under $800k for a showing,high_intent_inquiry
+161,Schedule a tour of the three-bedroom house in Madison listed at $375k,high_intent_inquiry
+162,Show homes under $1 million in Beverly Hills that are available to view today,high_intent_inquiry
+163,Find properties with assumable mortgages in Phoenix under $500k,high_intent_inquiry
+164,"Show houses in Grand Rapids under $350,000 with no HOA",high_intent_inquiry
+165,Can I arrange a viewing for the condo listed at 240 Main Street?,high_intent_inquiry
+166,Find homes in Dallas under $400k that can close within 30 days,high_intent_inquiry
+167,Show move-in ready condos in Chicago under $650k with parking,high_intent_inquiry
+168,Find newly listed homes in Portland under $700k with a garage,high_intent_inquiry
+169,I'm interested in touring homes near downtown Atlanta this weekend,high_intent_inquiry
+170,Show active listings in Sacramento under $600k with solar panels,high_intent_inquiry
+171,Find houses with open houses today in Minneapolis under $500k,high_intent_inquiry
+172,Show homes in Orange County under $950k that accept VA financing,high_intent_inquiry
+173,Find a property I can move into before December in Columbus under $300k,high_intent_inquiry
+174,Schedule a showing for homes with pools in Mesa under $475k,high_intent_inquiry
+175,Show listings added in the last 48 hours in Austin under $750k,high_intent_inquiry
+176,Find condos in Boston under $800k available for a showing this week,high_intent_inquiry
+177,Can we arrange a tour of the home on Pine Avenue?,high_intent_inquiry
+178,Show active homes in Fort Worth under $350k with seller financing,high_intent_inquiry
+179,Find move-in ready properties near public transit in Seattle under $850k,high_intent_inquiry
+180,Show houses with open houses this weekend in the 80206 ZIP code,high_intent_inquiry
+181,I'm ready to view two-bedroom condos in Miami under $500k,high_intent_inquiry
+182,Find new construction homes in Raleigh under $550k with completion this year,high_intent_inquiry
+183,Show homes available now in Kansas City under $325k with a finished basement,high_intent_inquiry
+184,Can I book a showing for a waterfront property in Charleston under $900k?,high_intent_inquiry
+185,Find listings accepting cash offers in Tucson under $400k,high_intent_inquiry
+186,Show homes with assumable loans in the Denver area under $700k,high_intent_inquiry
+187,Find active properties in San Jose under $1.2m with open houses Sunday,high_intent_inquiry
+188,Schedule a tour of move-in ready homes in Nashville under $600k,high_intent_inquiry
+189,Show new listings in Irvine under $900k with seller financing,high_intent_inquiry
+190,Find homes in the 60614 ZIP code under $750k available to tour tomorrow,high_intent_inquiry
+191,Can I view the three-bedroom home on Maple Drive this afternoon?,high_intent_inquiry
+192,Show active condos in Jersey City under $650k with parking and an open house,high_intent_inquiry
+193,Find houses in Pittsburgh under $300k that are ready for immediate occupancy,high_intent_inquiry
+194,Show homes listed within the past week in Orlando under $500k,high_intent_inquiry
+195,I'm prepared to make an offer on the home at 42 Cedar Lane,high_intent_inquiry
+196,Find properties in Tampa under $650k with an open house on Saturday,high_intent_inquiry
+197,Schedule viewings for two-bedroom condos in downtown San Diego under $700k,high_intent_inquiry
+198,Show homes eligible for FHA financing in Cleveland under $275k,high_intent_inquiry
+199,Find move-in ready homes in the suburbs of Atlanta under $550k,high_intent_inquiry
+200,Can I tour the newly listed townhouse in Arlington this weekend?,high_intent_inquiry
+201,Show active listings in the 78704 area under $800k with a garage,high_intent_inquiry
+202,Find homes with open houses tomorrow in Grand Rapids under $400k,high_intent_inquiry
+203,Schedule a showing for a home with a fenced yard in Charlotte under $475k,high_intent_inquiry
+204,Show available homes in Ann Arbor under $600k that can close next month,high_intent_inquiry
+205,Find seller-financed properties in Phoenix under $450k available now,high_intent_inquiry
+206,Can I arrange a viewing for the condo near UC Irvine listed under $700k?,high_intent_inquiry
+207,Show homes listed today in Dallas under $500k with a pool,high_intent_inquiry
+208,Find properties in Denver under $650k with a showing available this week,high_intent_inquiry
+209,Schedule a tour of homes in Sacramento under $700k that are move-in ready,high_intent_inquiry
+210,Show active listings in Tampa under $750k with open houses this Sunday,high_intent_inquiry

@@ -1,0 +1,43 @@
+query,actual_intent,predicted_intent,confidence,uncertain,correct
+Browse condos in downtown Austin,browsing,browsing,0.6992,False,True
+Compare housing prices in Ann Arbor and East Lansing,researching,researching,0.4914,True,True
+Find properties in Denver under $650k with a showing available this week,high_intent_inquiry,high_intent_inquiry,0.6389,False,True
+Which areas of Sacramento have the shortest commutes?,researching,researching,0.708,False,True
+Show active listings in the 78704 area under $800k with a garage,high_intent_inquiry,high_intent_inquiry,0.6603,False,True
+Compare HOA fees for condos near UC Irvine,researching,researching,0.4408,True,True
+Find listings accepting cash offers in Tucson under $400k,high_intent_inquiry,high_intent_inquiry,0.5573,True,True
+Show me homes with three bedrooms,browsing,browsing,0.7114,False,True
+Can I see available townhomes in Jersey City this Saturday?,high_intent_inquiry,high_intent_inquiry,0.4417,True,True
+I'm ready to view two-bedroom condos in Miami under $500k,high_intent_inquiry,high_intent_inquiry,0.592,True,True
+Show me homes with fireplaces,browsing,browsing,0.7733,False,True
+What should I consider when buying a property with solar panels?,researching,researching,0.6652,False,True
+Can I tour the newly listed townhouse in Arlington this weekend?,high_intent_inquiry,high_intent_inquiry,0.5779,True,True
+Find homes with open houses tomorrow in Grand Rapids under $400k,high_intent_inquiry,high_intent_inquiry,0.5412,True,True
+What does it mean when a property has a tax abatement?,researching,researching,0.6945,False,True
+Show me homes in Orange County,browsing,browsing,0.567,True,True
+What are the advantages of a fixed-rate mortgage?,researching,researching,0.7069,False,True
+Find ranch-style homes in Dallas,browsing,browsing,0.484,True,True
+What should I know about buying a home with a septic system?,researching,researching,0.7101,False,True
+Show me cabins near Flagstaff,browsing,browsing,0.7259,False,True
+Browse properties with two-car garages,browsing,browsing,0.6198,False,True
+How does a home's age affect homeowners insurance?,researching,researching,0.6908,False,True
+Find houses in Pittsburgh under $300k that are ready for immediate occupancy,high_intent_inquiry,high_intent_inquiry,0.5377,True,True
+Show me townhouses in Arlington,browsing,browsing,0.7344,False,True
+Can I arrange a viewing for the condo listed at 240 Main Street?,high_intent_inquiry,high_intent_inquiry,0.5366,True,True
+Find homes in Ann Arbor,browsing,browsing,0.4409,True,True
+Browse homes with swimming pools in Mesa,browsing,browsing,0.6926,False,True
+Find houses near the coast in Oregon,browsing,browsing,0.5456,True,True
+What does a high days-on-market figure indicate?,researching,researching,0.5657,True,True
+Show properties in the 98103 ZIP code,browsing,browsing,0.6679,False,True
+How does a special assessment work for a condo association?,researching,researching,0.6291,False,True
+I'm interested in touring homes near downtown Atlanta this weekend,high_intent_inquiry,browsing,0.4262,True,False
+Find houses in Irvine,browsing,browsing,0.4855,True,True
+What are the pros and cons of buying a condo versus a townhouse?,researching,researching,0.8089,False,True
+Which parts of Phoenix have the lowest utility costs?,researching,researching,0.6664,False,True
+Show houses with open houses this weekend in the 80206 ZIP code,high_intent_inquiry,high_intent_inquiry,0.4755,True,True
+Find homes in Dallas under $400k that can close within 30 days,high_intent_inquiry,high_intent_inquiry,0.5565,True,True
+"Show houses in Grand Rapids under $350,000 with no HOA",high_intent_inquiry,high_intent_inquiry,0.4281,True,True
+How can I evaluate an HOA before buying a property?,researching,researching,0.6462,False,True
+Show me properties in the 78704 area,browsing,browsing,0.8105,False,True
+How do easements affect what I can do with a property?,researching,researching,0.7837,False,True
+Schedule a tour of move-in ready homes in Nashville under $600k,high_intent_inquiry,high_intent_inquiry,0.7468,False,True
